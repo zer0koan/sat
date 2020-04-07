@@ -1,7 +1,5 @@
 # sat
 
-### Collection of radio/SDR resources for sat coms
-
 Autonomous Satellite Tracker
 * http://www.clearskyinstitute.com/ham/AST/
 
