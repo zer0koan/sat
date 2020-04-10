@@ -1,0 +1,17 @@
+As a basic outline for a satellite uplink:
+* Data enters a modem
+* Sent to an up-converter
+* Then to a high-power amplifier
+* Finally sent through the antenna
+
+Common amplifier types encountered in satellite literature are:
+* TWTA : traveling wave tube amplifiers
+* SSPA : solid state power amplifiers
+
+Multiple transponders on-board will increase capacity using:
+* CDMA : code division multiple access
+* FDMA : frequency division multiple access
+* TDMA : time division multiple access
+This allows multiple streams of infomration to be sent simultaneously over a single communication channel, delineating them by use of code, variance of frequency, or timing respectively.
+
+Downlinks then go from the satellite antenna to a low-noise amplifier (LNA), to the down-converter, to the modem, and then onward to a computer and/or end user.
