@@ -1,0 +1,35 @@
+Satellite Network Security
+* Satellite
+  * Bus
+  * Payload
+* Tracking, telemetry, and control (TT&C) ground station
+* Communications ground stations
+* Uplinks and downlinks between ground stations and satellite
+
+VSAT
+BGAN
+
+Security services globally accepted are:
+* Authentication
+* Integrity
+* Nonrepudiation
+* Access control
+* Availability
+* Privacy
+
+Redundancy is a measure against disruption of service.
+Hardening takes place at multiple nodes: physical, electronic intrusion, satellite itself
+Encryption
+Internet connected
+
+Satellite Network Threats
+* Electronic Attack
+* Uplink Jamming
+	* Signals for retransmission
+	* Command uplinks to the satellite
+* Downlink Jamming
+	* SATCOM broadcasts
+	* Navigation satellite (NAVSAT)
+* Spoofing
+
+Satellite Network Vulnerabilities
